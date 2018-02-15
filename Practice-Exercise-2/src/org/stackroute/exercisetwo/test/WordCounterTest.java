@@ -1,3 +1,4 @@
+package org.stackroute.exercisetwo.test;
 import static org.junit.Assert.*;
 
 import java.util.HashMap;
@@ -5,6 +6,7 @@ import java.util.HashMap;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+import org.stackroute.exercisetwo.WordCounter;
 
 public class WordCounterTest {
 	WordCounter wordCounter;

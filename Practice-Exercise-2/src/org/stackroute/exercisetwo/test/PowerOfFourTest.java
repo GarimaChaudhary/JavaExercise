@@ -1,8 +1,10 @@
+package org.stackroute.exercisetwo.test;
 import static org.junit.Assert.*;
 
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+import org.stackroute.exercisetwo.PowerOfFour;
 
 
 

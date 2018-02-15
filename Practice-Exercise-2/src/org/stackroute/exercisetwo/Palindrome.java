@@ -1,3 +1,4 @@
+package org.stackroute.exercisetwo;
 public class Palindrome {
 	
 	public Boolean checkPalindrome(String str) {
